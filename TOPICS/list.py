@@ -2,6 +2,8 @@ numbers=[10,0,-1,7,9,4,18]
 names=["jem","jane","jake","jill"]
 mix_list=[10,0,-1,7,"jem",10.89]
 
+print(type(numbers))
+
 print(mix_list)
 print(mix_list[0])
 print(len(mix_list))
