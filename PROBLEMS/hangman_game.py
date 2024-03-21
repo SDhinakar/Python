@@ -2,7 +2,7 @@ import random
 import string
 
 def hangman():
-    words_list = ['apple', 'fig', 'grape']
+    words_list = ['vignesh','dhina','kishore','dinesh']
     word = random.choice(words_list)
     guessed_letters = []
     tries = 6
